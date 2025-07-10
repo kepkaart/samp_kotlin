@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Armzon RP Mobile</string>
+    <string name="app_logo">Логотип приложения</string>
+    <string name="play_button">Играть</string>
+    <string name="install_button">Установить</string>
+</resources>
